@@ -2,6 +2,7 @@ Basic Random Codes
 
 
 git init
+git config
 git add
 git commit 
 git branch
