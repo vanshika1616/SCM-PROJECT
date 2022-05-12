@@ -1,4 +1,4 @@
-console.log("Welcome to FS");
+console.log("Welcome to Party");
 
 // Initialize the Variables
 let songIndex = 0;
